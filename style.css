@@ -382,7 +382,7 @@ footer .region a:hover {
   }
 
   .design .img-dd img {
-    width: 150%;
+    width: 100%;
   }
 
   .last .img-l img {
@@ -435,7 +435,7 @@ footer .region a:hover {
   }
 
   .design .img-dd img {
-    width: 160%;
+    width: 100%;
   }
 
   .last .img-l img {
@@ -452,9 +452,5 @@ footer .region a:hover {
   .design p,
   .last p {
     font-size: 17px;
-  }
-
-  * {
-    overflow-x: hidden;
   }
 }
