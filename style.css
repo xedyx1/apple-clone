@@ -422,8 +422,12 @@ footer .region a:hover {
     font-size: 34px;
   }
 
+  .last button {
+    padding: 6px 12px;
+  }
+
   .hero {
-    margin-bottom: 300px;
+    margin-bottom: 100px;
   }
 
   .design .img-d img {
@@ -448,5 +452,9 @@ footer .region a:hover {
   .design p,
   .last p {
     font-size: 17px;
+  }
+
+  * {
+    overflow-x: hidden;
   }
 }
